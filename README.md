@@ -1,8 +1,12 @@
 # Assignments (Solved)
 
+## NC (Numerical Computing) (MATLAB):
+
+#### NC Assignments: [NC-Assignments](https://github.com/H-R-S/Numerial-Computing-Assignments/blob/main/README.md)
+
 ## Python (Introduction to Python):
 
-#### Python Assignments: [Python-Assignment](https://github.com/H-R-S/Python-Assignments/blob/main/Assignment_01.md)
+#### Python Assignments: [Python-Assignments](https://github.com/H-R-S/Python-Assignments/blob/main/Assignment_01.md)
 #### Python Quiz: [Python-Quiz](https://github.com/H-R-S/Python-Quiz/blob/main/README.md)
 
 
