@@ -1,5 +1,10 @@
 # Assignments (Solved)
 
+## Python (Introduction to Python):
+
+#### Python Assignments: [Python-Assignment](https://github.com/H-R-S/Python-Assignments/blob/main/Assignment_01.md)
+#### Python Quiz: [Python-Quiz](https://github.com/H-R-S/Python-Quiz/blob/main/README.md)
+
 
 ## DBMS (Database Management System) (SQL):
 
