@@ -1,5 +1,9 @@
 # Assignments (Solved)
 
+## MAD (Mobile Application Development) (Kotlin / Flutter):
+
+#### MAD Project (Flutter): [MAD-Project](https://github.com/H-R-S/MAD-Project/blob/main/README.md)
+
 ## NC (Numerical Computing) (MATLAB):
 
 #### NC Assignments: [NC-Assignments](https://github.com/H-R-S/Numerial-Computing-Assignments/blob/main/README.md)
